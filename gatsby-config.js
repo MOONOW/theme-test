@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `Novela by Narative`,
-    name: `Narative`,
-    siteUrl: `https://novela.narative.co`,
+    title: `MOONOW`,
+    name: `MOONOW`,
+    siteUrl: `https://jovial-allen-097f49.netlify.app`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `Welcome to Novela, the simplest way to start publishing with Gatsby.`,
+      heading: `안녕하세요, 돈 되는 일이면 뭐든 하는 블로그입니다. 말만 하세용.`,
       maxWidth: 652,
     },
     social: [
