@@ -5,7 +5,7 @@ module.exports = {
     siteUrl: `https://jovial-allen-097f49.netlify.app`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `안녕하세요, 돈 되는 일이면 뭐든 하는 블로그입니다. 말만 하세용.`,
+      heading: `안녕하세요, 돈 되는 일이면 뭐든 하는 블로그입니다.`,
       maxWidth: 652,
     },
     social: [
