@@ -1,11 +1,11 @@
 module.exports = {
   siteMetadata: {
-    title: `MOONOW`,
-    name: `MOONOW`,
+    title: `Cheon&Moon`,
+    name: `Cheon&Moon`,
     siteUrl: `https://jovial-allen-097f49.netlify.app`,
     description: `This is my description that will be used in the meta tags and important for search results`,
     hero: {
-      heading: `안녕하세요, 돈 되는 일이면 뭐든 하는 블로그입니다.`,
+      heading: `안녕하세요, 돈 되는 일이면 뭐든 합니다.`,
       maxWidth: 652,
     },
     social: [
